@@ -46,8 +46,8 @@ regression_project/
    - Encode categorical variables and scale numerical features.
 
 2. **The Engines (S3, S4, S5)**
-   - **Numerical View:** Implement --------------------------- # حد يعدل علي دي
-   - **Statistical View:** Implement the Normal Equation for direct analytical solutions. # و دي 
+   - **Numerical View:** Implement 
+   - **Statistical View:** Implement the Normal Equation for direct analytical solutions. # 
    - **ML view:** Implement Gradient Descent with adjustable learning rates.
 
 3. **Regularization (S6)**
